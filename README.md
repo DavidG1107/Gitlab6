@@ -4,5 +4,5 @@
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
    
-* [Proyecto](#proyecto o url)
-* [Imagenes](# URL) 
+* [Proyecto](#proyecto)
+* [Imagenes](#imagenes) 
